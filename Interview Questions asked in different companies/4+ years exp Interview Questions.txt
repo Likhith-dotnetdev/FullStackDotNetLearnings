@@ -1,0 +1,13 @@
+Class and object
+What is constructor
+Interface
+.Net Framework vs .Net core
+dependency injection
+What is Middleware
+Purpose of middleware
+Authorization and authentication 
+Services in Angular
+Why we use Services in angular
+How do you call APi's in Angular
+How do you secure APi's
+What is Jwt

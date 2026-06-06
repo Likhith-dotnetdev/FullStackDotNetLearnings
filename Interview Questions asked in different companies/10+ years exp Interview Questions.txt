@@ -1,0 +1,4 @@
+1. Design lld of book my show 
+2. Do we scale app service plan to scale single app service
+3. Why cosmos db used 
+4. Event sourcing vs event driven architectures

@@ -1,0 +1,44 @@
+Tell me about it yourself 
+Explain your project
+
+Ienumerable vs iquerable
+LINQ-coding question
+First and firstordefault
+Single and singleordefault
+Managed code and unmanged code
+Explain Caching
+ENTITY FRAMEWORK - types(database approaches)
+Explain SOLID PRINCIPLES
+What is Dependency injection 
+All Service lifetimes in DI
+Singleton explaination
+What is c#
+.net vs .net core
+Abstract class vs interface
+What is Constructor 
+Explain Kestrel
+What is Web api
+How many Http codes do you know, explain them
+Explain Microservices 
+Explain mvc
+Appsettings.json
+Oops - explaination 
+Method overriding and method overloading 
+RestAPIs
+Delegates
+Array and arraylist
+Partial, sealed keyword diff
+Routing
+Authorization and authentication 
+
+Azure services
+Key vault
+Blob storage
+Explain CI/CD 
+
+What is Angular
+Directives
+Component 
+Routes in angular
+How do you connect components in angular
+DI in agular

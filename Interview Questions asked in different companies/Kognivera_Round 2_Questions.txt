@@ -1,0 +1,23 @@
+Everything about projects and Resume 
+End to end MVC flow how global.asax calls routes.config and how action paths are maintained 
+What are creational patterns
+Write code for singleton pattern
+What is app pool is iis
+How async await work internally  why it always return task with code example
+Show we repo pattern
+
+How to optimize query 
+Perform a cross join between 2 tables without using cross
+
+Select * from employees e join on department d on e.id= d.id or e.id !=d.id 
+He said why not used
+1=1  
+
+How to handle concurrent users
+What if my sp is giving millions record how to handle that( pagination)
+Jwt internal flow
+
+Can u code without any ai
+Dependency injection and ioc container 
+
+Mvc crud on paper just logical flow

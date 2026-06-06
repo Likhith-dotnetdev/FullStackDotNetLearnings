@@ -1,0 +1,14 @@
+xplain error handling in Web API.-average 
+What are main return types supported in Web API?-poor 
+JWT token API?-couldn't ans Web API supports which protocol?-wrong ans 
+string and string builder-average ReadOnly and constant-average static constructor and normal constructor -average 
+Solid-principle-fair enough temporary table-average 
+UNION & UNION ALL-average What is the difference between COMMIT and ROLLBACK?-average 
+How to delete duplicate rows in SQL Server?-poor 
+types MVC routing concep-good Session Management-average 
+What are the different return types of a controller Action method?-average 
+ActionResult and ViewResult-average What is Minification and Bundling?-average 
+What is Run(), Use() and Map() method?- 
+What is difference between middleware and filters in .NET Core?-average 
+Dependency Injection-average 
+Describe the Service Lifetimes-average

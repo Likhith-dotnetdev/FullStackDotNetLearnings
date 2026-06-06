@@ -1,0 +1,9 @@
+Abstract vs Interface
+Microservices and how they communication
+MVC architecture
+Reverse a string code
+Dependency injection 
+SOLID specially Liskov principal
+Sealed vs static
+IEnumerable vs IQuearyable
+LINQ 

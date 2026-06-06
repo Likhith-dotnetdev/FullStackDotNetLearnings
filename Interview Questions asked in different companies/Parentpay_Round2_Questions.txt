@@ -1,0 +1,39 @@
+How to add another method to existing class
+Extension method
+Why extension class are static
+Partial classes  and partial method
+What are delegates why we use 
+Are methods first class function
+What does delegates does
+What is request delegate 
+What is httpcontext
+Create one custom middleware 
+Write a report api call it via ef core or ado.net
+How to avoid background services (cancellation token)
+Flow of web api core
+Framework vs core 
+What is kesteral and reverse proxy
+Why we need repo patterns
+Facade design pattern(GOF)
+What is asnotracking .skip .take
+
+SQL SIDE 
+having group by
+Write query to find count of each employee  per department 
+
+What is table variable and temp table
+When to use which
+What are sp
+Performance optimization 
+Do u know React 
+If given chance how much time will u learn
+Query execution flow
+Table variable and temp table difference 
+
+Azure services
+Azure Ad
+
+Code
+Sushant is .net dev works in .net 
+
+Occurence of each word

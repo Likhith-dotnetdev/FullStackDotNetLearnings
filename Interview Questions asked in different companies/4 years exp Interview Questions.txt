@@ -1,0 +1,17 @@
+Tell me about yourself and your daily routine.
+What is the difference between .NET Core and .NET Framework?
+Can you explain dependency injection?
+Explain the pipeline and middleware component in ASP.NET Core.
+Difference between IActionResult and ActionResult in Web API controllers?
+How to implement API versioning in ASP.NET Core?
+Explain the project
+What is garbage collector and its levels?
+Do you know about action filters in ASP.NET Core?
+Difference between DDL and DML commands?
+What are stored procedures and why use them?
+Experience with common table expressions (CTE)?
+temporary tables and global temporary tables in SQL Server?
+What are joins and types of joins?
+Explain the main objective of inner join and provide example.
+Explain indexes and types of indexes.
+Code review: Identify issues in provided async method code.
