@@ -1,0 +1,15 @@
+ Nth highest salary anyone know? Simple way to find
+ Use MAX
+ SELECT MAX(salary) AS HighestSalary
+FROM employees;
+ WITH RankedSalaries AS (
+    SELECT 
+        employee_id, 
+        salary,
+        DENSE_RANK() OVER (ORDER BY salary DESC) as salary_rank
+    FROM employees
+)
+SELECT DISTINCT employee_id, salary
+FROM RankedSalaries
+WHERE salary_rank = &n;
+Best use CTE..WITH DENSE RANK easy one

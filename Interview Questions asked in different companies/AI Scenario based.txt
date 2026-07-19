@@ -1,0 +1,8 @@
+for me ai was taken me to explain some scenario based and asked questions top of that. After that codeing was given 
+
+1. write an api which takes json and return the sum.
+2. write an core function which takes int array input gives dictionary or elements sum odd and even 
+3. write a core function takes integers and gives u sum of even numbers4.  all validations and is not a number etc check
+5. context api vs props. which is better if u use for parent child component interaction
+6. how will u design react application with azure integration services with auth and fault tolerance and minimal latency
+7. how will u ensure the systems are integrated with guid

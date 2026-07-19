@@ -1,0 +1,24 @@
+today attended Interview questions
+What are the SOLID principles?
+What is an optional/default parameter?
+How many types of filters are there in ASP.NET Core MVC?
+Is it possible to create custom filters?
+How do you handle multiple inheritance in C#?
+Can we call stored procedures inside functions in SQL?
+How many types of SQL indexing are there?
+What is the difference between clustered, non-clustered, and unique clustered indexes?
+Can multiple clustered indexes be created on a table?
+How can you optimize a slow stored procedure?
+Why use NOLOCK in SELECT statements?
+Write a query to find the second highest salary.
+What is a partial class?
+What is an extension method?
+Abstract class vs Interface difference?
+Polymorphism explanation?
+MVC Controller vs API Controller difference?
+Authentication vs Authorization?
+How to define relationship between Employee and Department entities in Entity Framework?
+Difference between Unique key and Primary key?
+Common Table Expression (CTE)?
+Stored procedure vs Function difference?
+How to write SQL to get Employee ID, Employee Name, and Department Name from Employee and Department tables?

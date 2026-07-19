@@ -1,0 +1,1 @@
+An interviewer drilled down to how the logging ,exception happens using middleware and he wanted the object names and how the tokens are generated in azure and sent, and how things happen at the code level. He was not satisfied with high level answers. Though I gave him the peripheral idea of how things work.

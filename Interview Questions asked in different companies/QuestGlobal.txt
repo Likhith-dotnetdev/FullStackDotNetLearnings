@@ -1,0 +1,1 @@
+Matrix calculation: given 5x5 matrix find the sum of all rows and columns and find which column or  row has highest value : QuestGlobal

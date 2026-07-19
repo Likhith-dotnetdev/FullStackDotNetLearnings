@@ -1,0 +1,51 @@
+One of friend give Infosys interview
+Please find the questions
+
+.NET Core / C#
+What is Dependency Injection?
+How do you use Dependency Injection in .NET Core?
+What are services in .NET Core?
+What is Singleton, Scoped, and Transient lifetime?
+What is async and await?
+What is the difference between Task and Thread?
+Can we write var x = null in C#?
+Is var a data type in C#?
+How do you create an API in .NET Core?
+What steps do you follow while building an API?
+What is Program.cs in .NET Core?
+What is middleware?
+What is CORS?
+What is Controller?
+What is Service layer?
+What is Repository layer?
+What is MVC?
+What is layered architecture?
+Is using namespace required in C#?
+React
+Why is a React page/component rendering again and again?
+What is React.memo?
+What is wrong implementation of useEffect?
+What is dependency array in useEffect?
+What happens if there is no dependency array?
+If we call API inside useEffect, why is it calling again and again?
+What is prop drilling?
+How do you remove prop drilling?
+SQL
+Can clustered index have duplicate values?
+Should clustered index always be unique?
+What is clustered index?
+What is non-clustered index?
+What is unique index?
+Clustered vs non-clustered vs unique index.
+How to get duplicate records in SQL?
+Ways to find duplicate records.
+Can we use partition row / ROW_NUMBER to find duplicates?
+Write query to find duplicate records.
+What are joins?
+How many types of joins are there?
+Cloud / Git / DevOps
+What cloud services have you used?
+How do you handle version control?
+What version control tool do you use?
+What is Git clone?
+How do you deploy using CI/CD pipeline?

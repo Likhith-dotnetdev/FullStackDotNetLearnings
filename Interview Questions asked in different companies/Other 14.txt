@@ -1,0 +1,13 @@
+[20:57, 7/19/2026] LikhithKumar: !!! Hello guys a very important and interesting scenario based question that has been asked to me in technical managerial rounds for angular 
+Let's try to find out a good solution by your own so that it can helpful for you guys as well to explore instead of asking it directly to AI .
+
+Question how we can prevent token hijacking from angular side if one user who is having less access and by doing token hijacking that user can try to access whole system with admin's token....
+[20:57, 7/19/2026] LikhithKumar: CSRF I think is for ensuring that the frontend which is authorised to invoke the backend only can invoke the backend and not any other scrupulous website which seems like genuine one
+[20:57, 7/19/2026] LikhithKumar: Angular can help reduce the risk of token theft, but it cannot guarantee protection against token hijacking. The real security comes from secure token storage, https, short-lived tokens, backend authorization, and proper JWT validation on every request.
+[20:57, 7/19/2026] LikhithKumar: Csrf protection alone does not prevent Jwt token hijacking. They protect against different attacks.
+[20:57, 7/19/2026] LikhithKumar: Cross-Site Request Forgery (CSRF). It won't help Jwt 
+
+Token Theft/Hijacking Depends one storage and backend validation
+[20:57, 7/19/2026] LikhithKumar: The server recalculates the signature using the same secret/private key.
+If the signature matches, the token has not been modified.
+If someone changes the payload (for example, changes the role from User to Admin), the signature no longer matches, and the server rejects the token with 401 Unauthorized.

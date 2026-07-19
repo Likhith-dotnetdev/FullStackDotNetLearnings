@@ -1,0 +1,24 @@
+Neosoft interview questions for 3 years experience 
+
+How would you shard 10 million rows to scale the database?
+What is your daily work in your project throughout the day?
+Explain the CI/CD pipeline from start to finish.
+The application works locally, but the CI/CD pipeline fails. How do you troubleshoot it?
+How does GitHub Actions automatically deploy code after a commit?
+How does GitHub get access to Azure for deployment?
+Suppose we need to deploy a critical hotfix without affecting active users. What deployment strategy would you choose?
+Would you add security scans and penetration testing into the CI/CD pipeline?
+In a multi-environment setup (Dev, QA, UAT, Production), how do you manage:
+Configuration files
+Secrets
+Database migrations
+Deployment approvals
+Tell me about a deployment that went wrong in production.
+What happened?
+How did you identify it?
+How did you fix it?
+What did you do to prevent it from happening again?
+When would you use Singleton, Scoped, or Transient, and how do you decide?
+Can you describe a production issue caused by choosing the wrong DI lifetime?
+
+Ye question puche they unhone

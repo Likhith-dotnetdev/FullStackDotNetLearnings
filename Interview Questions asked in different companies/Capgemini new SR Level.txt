@@ -1,0 +1,11 @@
+Capgemini senior role interview.
+1. What is minimal apis.
+2. Suppose if i give cust id 5 input it should display the orders related to it. Front end. Api. Sql every step mention.
+3.. Net 9 and. Net 10 differences.
+4. Where do business logic we will write? Model or controller? Or both? If yes how? If no then why no?
+5. There is orderservice and customer service how will u use it?
+6. Encapsulation vs abstraction 
+7. Fetch orders from orddr and customer table with joins and also with out join fetch customer id and orders related to it.
+8. String reverse program and tell what exceptions comes if u do some mistake in this logic?
+9. Design patterns factory explain if u know.
+10. Dot net 10 has ai code related features? Yes or no?

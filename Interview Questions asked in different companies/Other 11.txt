@@ -1,0 +1,4 @@
+guys pls share interview experience as well. 
+codeing questions as well please for junior/senior roles.
+
+in one company they asked me to write api with asynchronous programming calling two functions internally. how to remember as well pls tell.

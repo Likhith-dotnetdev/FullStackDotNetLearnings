@@ -1,0 +1,1 @@
+npm run build and yarn build do the same thing in a React project: they create a production-ready build of your app. The only difference is the package manager used—npm uses package-lock.json, while Yarn uses yarn.lock. For beginners, npm is usually easier to understand because it comes pre-installed with Node.js and is commonly used in tutorials.

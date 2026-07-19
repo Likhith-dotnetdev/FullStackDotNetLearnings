@@ -1,0 +1,3 @@
+Prepare well for coding 
+Nth highest salary in linq.
+Output a2e2i3o5u2, find a given string paragraph.

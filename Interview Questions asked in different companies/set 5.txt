@@ -1,0 +1,15 @@
+last friday attended interview questions
+What architecture have you used in your projects?
+Explain the pillars of OOP.
+Difference between Abstract class and Interface.
+Explain difference between throw and throw ex in exception handling.
+Explain FirstOrDefault vs SingleOrDefault in LINQ.
+How to optimize SQL queries for performance?
+Write SQL query to get second highest salary from an employee table.
+Difference between functions and stored procedures.
+Explain triggers and types.
+What is CTE (Common Table Expression)?
+Which is better: queries or joins?
+Difference between double equal (==) and triple equal (===)?
+Difference between DELETE, TRUNCATE, and DROP in SQL.
+Have you worked on exception handling?

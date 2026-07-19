@@ -1,0 +1,16 @@
+1. Self intro
+2. What are the oops concepts ?
+3. Difference between abstract class and interface?
+4. Can we implement a method without using abstract ?
+5. Can we implemt a interface without using abstract method?
+6. Service lifetimes in .net core?
+7. Dependency injection in .net core?
+8. What is lazy loading and eager loading in .net core?
+9. What is middleware and how do you implement?
+10. What are the difference between const and readonly fields?
+11. What is sealed keyword?
+12. What is static keyword?
+13. What is partial class?
+14. What are the difference between.net core and .net framework?
+15. Write a code to swap 2 variables without using 3rd variable in c#?
+16. What are the difference between unique and primary keys?

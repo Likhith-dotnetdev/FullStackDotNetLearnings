@@ -1,0 +1,10 @@
+Virtusa L1 AI Interview
+Experience: 4 - 6 Years 
+1. Introduce your self
+2. Can you walk me through how the ASP.NET Core middleware pipeline works? Specifically, I'd love to hear how you would go about implementing custom middleware for request logging—what does that look like in practice?
+3. Can you write C# code implementation for an asynchronous Generic Repository pattern in ASP.NET Core ?
+4. When it comes to state management in modern frontend frameworks, which approach do you prefer and why? For example, how would you manage shared state across multiple components in a large-scale application?
+5. When working with Entity Framework Core in a team environment, how do you handle database migrations? What's your approach to managing schema changes without causing conflicts or breaking changes for other team members?
+6. When it comes to unit testing in ASP.NET Core, how do you typically structure your tests for controllers and business logic layers? What frameworks do you reach for, and how do you handle mocking dependencies?
+7. Git branching strategy? (Implied: What is the optimal Git branching strategy for enterprise teams?)
+8. Payments domain and security. Security consideration based on priority in architecture level? (Implied: What are the highest-priority architectural security considerations in the payments domain?)

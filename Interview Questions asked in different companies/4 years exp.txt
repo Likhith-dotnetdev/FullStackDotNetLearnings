@@ -1,0 +1,22 @@
+Interview questions attended by today for 4 years of experience 
+Explain the difference between readonly, const, and static in C#.
+Explain the difference between dynamic, object and var in C#.
+What is the major difference between method overloading and method overriding?
+difference between Abstraction and interface?
+Explain Dispose, using, and Garbage Collection in .NET.
+What is the purpose of the using statement in C#?
+Explain the types of joins in SQL.
+tell me the difference between the right joint and right outer join.
+Explain async, Task, await, and Thread in C# with code
+Write a SQL query to show each employee and their manager using the given employee_manager table.
+write the SQL query to get total orders, total order amount, total payment done, and customer name by joining the customers, orders, and payments tables.
+What are the major differences between ViewData, ViewBag, and TempData
+Can you explain more about TempData in ASP.NET MVC?
+What is session management?
+What are the different types or methods of session management?
+Explain Dependency Injection in .NET Core and its scopes or types.
+What are the SOLID principles?
+What are the types of HTTP methods used in APIs?
+What is the difference between the HTTP PUT and PATCH methods?
+What is JWT and how can we differentiate the token?
+What are some common HTTP status codes?

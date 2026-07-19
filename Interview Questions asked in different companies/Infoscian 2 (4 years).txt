@@ -1,0 +1,24 @@
+Infosys Round 1 ( 4 Years Experience Candidate)
+
+Introduce yourself
+
+Angular
+---------
+What is Module ?
+What is Observables and why do we use it ?
+What is an HTTP interceptor ?
+What is canActivate ?
+How to you integrate api in angular ?
+
+Dotnet Core 
+-------------
+What is middleware ?
+What is the difference between string and stringbuilder ?
+
+Coding questions asked to use an online compiler for this : 
+
+Write a program to find the first non repeating character
+Input : swiss
+Output : w
+
+How will you increase the performance of the api which is taking 8 sec to respond ?

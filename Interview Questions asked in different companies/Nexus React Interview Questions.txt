@@ -1,0 +1,50 @@
+-----------------------12 June 2026 9Nexus
+React Questions
+
+What is the difference between state and props in React?
+
+What is the purpose of the key prop?
+
+What is JSX?
+
+What is the useEffect hook used for?
+
+What is the difference between useCallback and useMemo?
+
+What are callbacks?
+
+What is a Higher-Order Component (HOC)?
+
+How do you access a child component from a parent component?
+
+What is the Virtual DOM and how does it work?
+
+What are custom hooks and how are they used?
+
+What state management libraries have you used?
+
+Angular Questions
+
+What is a component in Angular?
+
+What are directives (initially asked as "objectives"), and what is their purpose?
+
+What does a compiler do in Angular?
+
+What are the lifecycle hooks in Angular?
+
+What type of DOM does Angular use?
+
+What architecture does Angular follow?
+
+What is lazy loading?
+
+General & Cloud Questions
+
+Have you used Docker before?
+
+What deployment services or cloud services have you used?
+
+Do you have experience integrating REST APIs?
+
+Do you primarily write code in TypeScript or JavaScript?

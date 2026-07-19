@@ -1,0 +1,5 @@
+ How can a class use another class without inheritance
+Factory Pattern Output: What output do you expect when you call a factory class?
+✅ Answer:
+A factory class returns an object instance based on logic — typically via a static or instance method. The caller
+does not use 'new' directly.

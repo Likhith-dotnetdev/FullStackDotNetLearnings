@@ -1,0 +1,18 @@
+For 4 years of experience attended interview quesions
+Tell me about yourself.
+difference between encapsulation and abstraction
+Difference between abstract class and interface.
+What is an extension method? 
+Write a code to reverse a string using extension method.
+Difference between Array and ArrayList.
+What is garbage collector and how does it work?
+What is Dependency Injection and its importance?
+Write a POST Web API endpoint to save employee data
+How to handle global exceptions? Write code.
+Difference between PUT and PATCH.
+Difference between middleware and filters.
+Benefits of stored procedures
+Difference between DELETE and TRUNCATE SQL commands.
+Difference between Common Table Expression (CTE) and temporary table.
+How to share data between Angular components, including sibling components?
+Difference between Subject and BehaviorSubject in RxJS.

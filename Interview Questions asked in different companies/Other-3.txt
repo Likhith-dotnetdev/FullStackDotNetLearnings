@@ -1,0 +1,10 @@
+learn
+Middleware
+Micro frontends/ Micro-services
+Deep Architecture knowledge
+Migration process from monolith to microservice
+Kubernetes-Kafka
+Redis
+Cache implementation
+Azure Dev-ops
+Able answer in practical way not only definition.

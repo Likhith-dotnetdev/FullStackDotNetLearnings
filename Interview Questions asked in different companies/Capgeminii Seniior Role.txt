@@ -1,0 +1,12 @@
+Capgemini senior role interview.
+
+1 compile time polymorphism given code to find the output.
+
+2.Dependency injunction.
+
+3. Unit testing the given one controller class we should write a test case.4.  Program like 'Hello World ' should print oellH dlroW' without using inbuilt function.
+
+5. What is trigger in sql
+6. What is a magic table.
+7. Angular how to improve application performance.
+8. What is Lazy loading

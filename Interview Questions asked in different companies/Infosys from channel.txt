@@ -1,0 +1,74 @@
+Sharing the questions asked in a recent Infosys Technical Interview Round. These questions are useful for developers preparing for .NET Full Stack, ASP.NET Core, Angular, and SQL Server interviews.
+
+✅ C#/.NET Questions
+
+🔹Collections (Generic & Non-Generic)
+🔹Boxing & Unboxing
+🔹Difference between Ref and Out Parameters
+🔹Have you written any Custom Middleware?
+🔹Explain Global Exception Handling Middleware with code example.
+🔹Create Two Objects and Swap Values (Coding Question)
+🔹Explain the 4 Pillars of OOPs and where they are used in your current project.
+
+
+✅ASP.NET Core / Web API
+
+🔹How do you test and debug API endpoints?
+🔹How do you document API endpoints?
+🔹Swagger / OpenAPI
+🔹Have you worked with Entity Framework Core?
+🔹Difference between Code First and Database First Approach.
+🔹Which approach is more efficient and why?
+🔹How do you integrate ASP.NET Core APIs with Angular?
+🔹How do you secure APIs?
+🔹JWT Authentication
+🔹Authorization
+🔹Public vs Protected Endpoints
+
+
+✅Angular Questions
+
+🔹What are the 4 Types of Data Binding?
+🔹Interpolation
+🔹Property Binding
+🔹Event Binding
+🔹Two-Way Binding
+🔹How do you consume API endpoints in Angular?
+
+
+✅SQL Server Questions
+
+🔹What is Indexing?
+🔹Types of Indexes:
+-Clustered
+-Non-Clustered
+-Unique
+-Composite
+-Filtered
+
+🔹How do you check Query Execution Plans?
+🔹How do you identify SQL Performance Issues?
+🔹Have you used SQL Profiler?
+
+
+✅Production Support Questions
+
+🔹Have you handled Production Issues?
+🔹How do you perform Root Cause Analysis (RCA)?
+🔹What steps do you take to troubleshoot and resolve critical production incidents?
+
+
+✅Key Topics to Prepare
+
+🔹C#
+🔹OOPs Concepts
+🔹ASP.NET Core
+🔹Middleware
+🔹Web API
+🔹Entity Framework Core
+🔹Authentication & Authorization
+🔹Angular
+🔹SQL Server
+🔹Indexing & Query Optimization
+🔹Production Support
+🔹Performance Tuning

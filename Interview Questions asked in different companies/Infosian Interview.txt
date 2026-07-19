@@ -1,0 +1,35 @@
+infosys today 1st round interview questions
+
+HR Questions
+Introduce yourself.
+How do you manage working across different time zones?
+Are you comfortable working in different shifts or time zones? (Follow-up)
+C# / .NET Questions
+How does async/await work in .NET applications?
+How do you achieve code reusability in C#?
+How does middleware enhance .NET applications?
+What is the role of Dependency Injection in an ASP.NET MVC/Core application?
+How is Dependency Injection implemented, and what are its benefits?
+How does Dependency Injection improve software testing?
+How do you handle exceptions in your project?
+ASP.NET Core / Web API Questions
+How does CORS work in ASP.NET Core?
+Why do we use CORS?
+How do you configure CORS in .NET Core? (Possible follow-up)
+Entity Framework Questions
+Explain the One-to-Many relationship in Entity Framework.
+How is a One-to-Many relationship represented in the database?
+What is the difference between Lazy Loading and Eager Loading?
+WCF / Web API Questions
+What is WCF?
+What is a Service Contract in WCF?
+What is the difference between WCF and ASP.NET Web API?
+SQL Server Questions
+How do indexes improve query performance?
+What are the benefits of indexes?
+What is the difference between Clustered and Non-Clustered indexes? (Likely follow-up)
+What is normalization?
+What is the impact of normalization on database design?
+Design Pattern Questions
+Explain the Factory Design Pattern.
+How is the Factory Pattern used in large applications?

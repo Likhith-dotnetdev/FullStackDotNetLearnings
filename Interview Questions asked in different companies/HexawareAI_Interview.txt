@@ -1,0 +1,19 @@
+Hexaware AI based first round interview questions -
+
+How will you design a multitenant application?
+
+How will you scale a azure function?
+
+How will you manage to make your system which is deployed in Azure app service resilient? What will your backup plans, traffic management plans, zero- downtime plans, scalability plans ?
+
+What is Dependency Injection?
+
+What are lifetimes of Dependency Injection? Give example where you have used them.
+
+What is custom middleware?
+
+How you have managed the exception handling globally?
+
+Write down code for global exception handling as custom middleware?
+
+Write down code where you are logging the request and passing the request to the next middleware?

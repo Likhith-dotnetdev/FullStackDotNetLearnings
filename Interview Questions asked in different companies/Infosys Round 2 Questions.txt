@@ -1,0 +1,19 @@
+Gave Infosys 2nd Round today which was based on .NET + SQL
+Questions asked:
+- Introduce yourself what you do on a daily basis and which projects are you working on
+- What is Kestrel
+- What is Middleware
+- How do you implement a custom middleware
+- What is Dependency Injection and its Lifetimes
+- Cancellation token
+- Explain the working of JWT token in you application
+- Explain architecture of you project
+- Why do implemented Clean Architecture in your project
+- If you API is facing Performance issue and its not a DB issue how would you debug it
+- API versioning and what is optimized way to implement it
+- POST vs PUT vs PATCH
+- What is CTE
+- What is temp table, can you access temp table across connections
+- What is Trigger
+- What is Index
+- Write Query to find the Nth Largest Salary

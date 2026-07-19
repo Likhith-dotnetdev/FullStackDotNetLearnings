@@ -1,0 +1,25 @@
+Just gave an Interview in Infosys for .NET Full Stack with Angular (3 - 5 YOE).
+
+In the first round, the interviewer completely focused on Frontend.
+
+### Angular Questions
+- Angular Lifecycle – ngOnInit vs ngAfterViewInit
+- Routing Scenario-Based Question – The user is on a registration form and you have to restrict the user from navigating to other pages until the form is submitted
+- Angular AOT vs JIT
+- How would you optimize an Angular application’s performance?
+- extends vs implements
+- Pipes and their types and differences
+- Angular Content Projection
+- Angular BehaviorSubject
+- Angular Libraries – Have you used libraries like AgGrid?
+
+### JavaScript Question
+Input:
+const temp = [1,2,3,4,5,6,7,8];
+
+Output:
+[[1,2,3],[4,5,6],[7,8]]
+
+### CSS Questions
+- Flexbox vs Grid
+- Any CSS libraries used?

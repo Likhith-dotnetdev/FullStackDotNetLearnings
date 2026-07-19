@@ -1,0 +1,60 @@
+C# / OOP
+
+1. What is SOLID?
+2. Explain Design Patterns. Which ones have you used?
+3. What is the difference between ref and out?
+4. What is async and await?
+5. Where have you used async/await in your projects?
+6. What is the difference between IEnumerable and IQueryable?
+7. Difference between ArrayList, Hashtable, and Collections?
+8. What is Dependency Injection (DI)?
+9. What is Middleware in ASP.NET Core?
+10. What is ViewData?
+11. Difference between ViewData and ViewBag?
+12. What is a REST API? What are its advantages?
+13. Difference between Encryption and Hashing?
+14. What are Data Annotations?
+15. What is the ref keyword?
+16. Can function overloading differ only by return type?
+17. Can an abstract method exist in a non-abstract class?
+18. If two interfaces have the same method, how do you implement/call them?
+19. Can a normal class contain static methods?
+20. What is a private constructor?
+21. Can a class with only a private constructor be inherited?
+22. If A obj = new B(), which method gets called when overridden?
+23. Can a derived class call a base class method?
+24. Can a derived class access a private method of the base class?
+
+ASP.NET MVC
+
+25. How do you call a view if there is no model?
+26. How do you pass two models to the same view?
+27. Can a partial view be used without a model?
+28. How would you refresh/reload a control every few seconds?
+29. How would you restrict content in a textbox/control?
+30. What is the best way to perform validation in MVC?
+31. If controls have different names, how would you create generic validation?
+32. If two controls have the same class name, how would you apply styling?
+33. How would you give a background color to controls with a specific class?
+
+SQL Server
+
+34. Difference between CTE and Temp Table?
+35. What are Indexes?
+36. What is a View?
+37. Can views be updated?
+38. Write an UPDATE query.
+39. Can UPDATE be used inside a Function?
+40. Can a Function call a Stored Procedure?
+41. Can a Stored Procedure call a Function?
+42. Can a Stored Procedure exist without parameters?
+43. What are the return types of a Function?
+44. Can a Stored Procedure return multiple tables/result sets?
+45. If a Stored Procedure returns two tables, how do you read only the second table in C#?
+46. How do you implement/call a Stored Procedure in C#?
+
+Performance & Security
+
+47. An application is slow. How would you troubleshoot and improve performance?
+48. What are the different types of caching?
+49. What application security measures do you consider?

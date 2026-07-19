@@ -1,0 +1,22 @@
+Infosys AI interview questions 
+.NET Core / C#
+How does middleware handle requests in ASP.NET Core applications?
+How does the .NET runtime support cross-platform development in .NET Core applications?
+Can you explain the structure of the .NET runtime and its role in .NET Core applications?
+How do you decide between Code First and Database First approaches in Entity Framework?
+What is the difference between Eager Loading, Lazy Loading, and Explicit Loading?
+How do you decide between JSON and XML serialization in WCF services?
+How does the Factory Pattern help manage object creation complexity?
+How does Dependency Injection improve testability and maintainability?
+How do you handle exceptions and logging in .NET applications?
+SQL Server
+What are the advantages of indexes?
+What are the potential downsides of indexing?
+How do transactions ensure data integrity in SQL Server?
+Can you describe a scenario where a transaction might fail?
+What are the ACID properties of a transaction?
+Design Patterns & Architecture
+What is the Factory Design Pattern?
+Why would you use Dependency Injection?
+How does loose coupling improve application design?
+What are the benefits of using interfaces in software design?

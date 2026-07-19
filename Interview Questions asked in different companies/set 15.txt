@@ -1,0 +1,4 @@
+ Explain  request  processing  pipe line
+ Global exception handling
+ Kafka and its working/ rabitmq
+ Implementation of delegate

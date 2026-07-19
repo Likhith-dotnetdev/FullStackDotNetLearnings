@@ -1,0 +1,45 @@
+Explain the process of setting up a CI/CD pipeline in Azure DevOps for a .NET Core application, including secure deployment and secrets management.
+
+Write a .NET Core console application that connects to Azure Key Vault, retrieves a secret, and prints it.
+
+Build a .NET Core console application that stores and retrieves a secret from Azure Key Vault using DefaultAzureCredential.
+
+Design a scalable microservices architecture using .NET Core and AKS.
+
+How would you secure service-to-service communication in AKS (authentication, encryption, Azure tools)?
+
+How would you integrate Azure Monitor and Application Insights for AKS?
+
+How would you configure Application Insights for an Azure App Service?
+
+How would you implement custom telemetry and query custom events in Azure Monitor?
+
+Configure Serilog to log to Azure Blob Storage and the console.
+
+Configure Serilog to log to a text file with rolling logs.
+
+Design a .NET Core application on Azure App Service with Azure SQL using Managed Identity, monitoring, and autoscaling.
+
+Configure Managed Identity step-by-step for Azure App Service to access Azure SQL.
+
+Integrate Azure Cache for Redis into a .NET Core application.
+Implement retry and expiration policies for Azure Cache for Redis.
+
+Design a CI/CD pipeline for AKS using Azure Key Vault and autoscaling.
+
+Integrate automated security checks (NuGet and Docker image scanning) into the CI/CD pipeline.
+
+Configure Microsoft Defender and vulnerability scanning in Azure DevOps and handle detected vulnerabilities.
+
+Configure Azure Traffic Manager for high availability and failover.
+
+Configure geographic routing and endpoint health monitoring in Azure Traffic Manager.
+
+Implement Azure SignalR Service for real-time communication.
+
+Configure Azure AD authentication and role-based authorization in a .NET Core API.
+
+Handle Azure AD token validation failures and logging.
+Identify and resolve Azure SQL query bottlenecks.
+
+Write EF Core pagination code for handling large datasets.

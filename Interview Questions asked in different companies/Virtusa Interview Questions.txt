@@ -1,0 +1,35 @@
+-- Virtusa 11June2026  
+
+### General & Background
+
+ * Can you introduce yourself?
+
+### Microservices Architecture
+
+ * Have you done work with microservices?
+
+ * Have you done any monolith to microservices migration?
+
+ * Do you know how to identify what microservices to create from a monolith application?
+
+ * What is the advantage of using microservices over a monolithic application?
+
+ * What was your biggest challenge when developing the microservices project, and how did you solve it?
+
+### C# & .NET Core
+
+ * Write a C# code snippet to remove duplicate characters from an input string (e.g., if the input is "Anand", the output should be "AND").
+
+ * Why does .NET Core run faster than the older .NET Framework?
+
+### Cloud & DevOps (Azure & Docker)
+
+ * What are the various Azure services you have used?
+
+ * Can you give an example of a task you have done using Azure Functions?
+
+ * How did you deploy the Azure function?
+
+ * Have you worked with Docker files?
+
+ * How did you deploy the microservice?

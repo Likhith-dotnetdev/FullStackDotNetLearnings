@@ -1,0 +1,20 @@
+Got from some forum-
+
+Dependency Injection — concept, implementation, benefits 
+
+Service Lifetimes — Transient, Scoped, Singleton 
+
+Azure App Service Deployment — containerization, CI/CD, scalability, security 
+
+Dockerfile — multi-stage build, layer caching optimization 
+
+Angular Services — separation of concerns, scalability, state sharing 
+Angular HttpClient + In-Memory Caching 
+
+Async Race Conditions in Angular ( shareReplay ) 
+
+Azure Functions Security — Azure AD, JWT
+
+ Azure AD RBAC  App Roles, policies
+
+ JWT Token Expiration + Refresh flow

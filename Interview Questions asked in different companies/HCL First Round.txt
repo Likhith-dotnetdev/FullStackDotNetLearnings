@@ -1,0 +1,40 @@
+-- HCL 1st round --CleverHire (AI Bot) 
+
+### SQL Server & Performance Tuning
+ * "Walk me through the specific steps... You mentioned joins, indexes, and keys, but I need your specific role here. What exact query, procedure, or production issue did you personally diagnose, and what was the before/after impact?"
+ * "You mentioned an N+1 issue and reducing repeated execution. What was the actual query pattern, and what change did you make to prove the improvement in production?"
+ * "That helps, but I need the concrete production detail. What was the latency or CPU before you changed it, what was it after, and how did you measure that?"
+ * "You're mentioning indexes and execution plans. What exact plan pattern were you looking for, and what did it tell you about the slow part?"
+ * "Let me come at this differently. In your last SQL Server system, what was the hardest stored procedure you had to tune, and what exact change did you make first?"
+ * "You mentioned replacing repeated selects with a CTE. What was your specific contribution there, and how did you verify it didn't change the result set?"
+### Microservices vs. Monolithic Architecture
+ * "Let's use the remaining time to cover microservices architecture for designing and developing modular backend components. You have three months, two teams disagree on whether to split a service now or keep it monolithic, and a hard launch date is fixed. How do you decide and ship on time?"
+ * "You're making a clear trade-off choice, but I need the specifics. What was the hardest decomposition decision you've made before, and what dependency or failure mode made that choice difficult?"
+ * "You've explained the preference, not the implementation. If you had to split one business capability from a monolith under a fixed launch, what would be the first boundary you'd pick, and what would you keep inside the monolith?"
+### Azure Infrastructure & Incident Management
+ * "For this role, Microsoft Azure for deploying, managing... I need you to walk me through the specifics. In Azure, if a deploy causes cascading failures across three dependent services, and rollback isn't safe because the DB schema already moved forward, what do you do first?"
+ * "That's a partial process answer, but I need the production playbook. Once cascading failures are already happening in prod, what exact steps would you take in the first 10 minutes to stabilize it without rolling back the schema?"
+ * "You're still describing the release flow, not the live incident response. Tell me one concrete Azure service you'd inspect first in that outage, what signal you'd look for, and what action you'
+d take next?"
+
+Scenario
+
+You are building a console application that processes log files.
+
+There are 3 large files:
+
+log1.txt
+log2.txt
+log3.txt
+
+Each file contains thousands of lines.
+
+Requirement
+Read all three files asynchronously.
+Count the number of lines in each file.
+Display the count for each file.
+Display the total line count after all files are processed.
+The application should not block the main thread while files are being read.
+Interview Question
+
+Implement this using async/await. Also explain why async/await is preferred over synchronous file reading in this scenario.

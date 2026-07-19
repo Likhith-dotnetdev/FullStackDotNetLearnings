@@ -1,0 +1,13 @@
+for 4 years experience in digimantra company interview questions
+What is inheritance, how does it work, and which type of inheritance is not supported in .NET?
+Do you know what is composition?
+What is polymorphism? Can you explain it?
+Will a Calculator class with two overloaded methods compile? Why?  Add(int a, int b) Add(int a, int b, int c)
+What happens when the compiler encounters string s;? Is any memory allocated?
+Explain the difference between String and StringBuilder.
+Explain the difference between Convert.ToString and Convert.Toint().
+How do you send data from MVC Controller to View? Why use TempData?
+What is the difference between TRUNCATE and DELETE in SQL?
+Write an SQL query to find the second highest salary from an Employee table.
+Write a recursive function to calculate factorial of a number.
+Write a function to reverse a string without using any inbuilt function.

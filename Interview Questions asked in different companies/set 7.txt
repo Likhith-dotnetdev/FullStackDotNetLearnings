@@ -1,0 +1,22 @@
+Solid principle
+Dependency injection
+Async
+Pod , 
+Docker life cycle 
+
+Walk me through ci CD which you have worked in your project 
+
+He asked lot Terraform questions scenario based
+
+What is state file
+Diff between terraform init ,plan,apply
+Diff between ci and cd
+Circuit break
+ Deployment was successful but application failed later , what you will do in that situation
+If deployment is taking lot time means what you will do ,next steps?
+Clean architecture
+Kublet
+ What is middlewear
+How to create web api
+About jwt and how it works
+Horizontal scaling vertical scaling

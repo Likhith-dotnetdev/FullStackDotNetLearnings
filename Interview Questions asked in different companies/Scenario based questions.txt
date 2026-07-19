@@ -1,0 +1,20 @@
+What is Event loop.and how it is work.
+
+ promises and callbacks.
+
+How to handling exception in ur project.
+
+Unsubscribe from multiple subscription in Angular.
+
+Subject and behavior subject. What's the difference? Subject and behavior subject.
+
+What is Tree Shaking?
+
+hooks available, Angular lifecycle hooks.
+
+
+How will do the code coverage and unit testing? Code coverage and unit testing.
+
+Web api how to work?
+
+Some scenarios based questions

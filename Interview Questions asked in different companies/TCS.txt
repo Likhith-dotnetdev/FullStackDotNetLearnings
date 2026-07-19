@@ -1,0 +1,27 @@
+1.  Continue explaining the ASP.NET Core request pipeline.
+2. Have you created any custom middleware?
+3. How have you handled authentication and authorization in your project?
+4. What are the three parts of a JWT token?
+5. How do you generate a JWT token?
+6. If your application is hosted on multiple servers, how is a JWT token generated on Server 1 validated on Server 2?
+7. Can you explain Dependency Injection?
+8. Can you explain Dependency Injection with a real project example?
+9. What are the service lifetimes in Dependency Injection?
+10. How do you handle exceptions globally?
+11. A critical exception occurs in production, and you need to resolve it within 30 minutes. What steps would you follow?
+12. Have you implemented application logging in your project?
+13. How do you capture/log exceptions?
+14. Do you know Serilog?
+15. What is multithreading?
+16. A scheduler runs every 5 minutes and receives 50,000 records. You need to make an API call for each record. How would you design this?
+17. How can you improve API performance?
+18. Have you handled any security vulnerabilities?
+19. What is SQL Injection, and how do you prevent it?
+20. Have you handled XSS or CSRF vulnerabilities?
+21. Can you explain your deployment structure?
+22. Do you have different environments (Development, QA, UAT, Production), or do you follow a standard deployment process?
+23. If a critical issue occurs in production and you don’t have server access, how do you identify and troubleshoot it?
+24. Do you know about IIS, such as creating Application Pools?
+25. How are IIS logs captured on the server?
+26. Have you worked on SQL scripts or complex stored procedures?
+27. How do you improve SQL query performance?

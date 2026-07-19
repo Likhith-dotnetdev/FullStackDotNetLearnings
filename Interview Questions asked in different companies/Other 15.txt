@@ -1,0 +1,15 @@
+[17:43, 7/19/2026] +91 99124 50731: var list = new List<int>();
+        list.Add(1);
+        list.Add(2);
+
+        var evenNumbers = list.Where(n => n % 2 == 0);
+
+        list.Add(4);
+
+        Console.WriteLine($"Even: {evenNumbers.Count()}");
+
+
+what is output and why?
+[17:46, 7/19/2026] +91 72086 50805: 2
+[17:48, 7/19/2026] +91 72086 50805: Late execution of linq where clause,
+[17:49, 7/19/2026] +91 72086 50805: When count method called then actual where call condition executed

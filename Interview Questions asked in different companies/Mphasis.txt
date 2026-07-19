@@ -1,0 +1,17 @@
+what is the difference between clusterd and non clusterd index?
+write the query for the third highest salary 
+what is the signal in angular?
+what is the difference between promise and subscribe?
+what are the differences bwtween monolithic and microservice architecture?
+how to you improve the performance of api
+what is the difference between middleware and filters
+what is the difference between addscoped and addtransient
+explain the jwt?
+request pipe line?
+how to implement global exception 
+how to implement custom middleware
+what is azure fucntion
+what is the difference between async and await in background proccess
+what is the L in the solid principles expalin it
+
+Mphasis interview

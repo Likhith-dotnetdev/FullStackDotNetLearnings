@@ -1,0 +1,70 @@
+Many developers are asking for LTM Mindtree interview prep this is coming from one of the candidates.
+LTI Mindtree
+
+.NET / C#
+•	Stack vs Heap
+•	What is Garbage Collector? How does it work?
+•	If I don’t want to create instance of a class, how to do it (without static/abstract)?
+•	How to create Dependency Injection?
+•	Where does injected dependency reside?
+•	Constructor chaining
+•	Partial class – what & use
+•	Can partial class exist in different projects?
+•	Types of NullReferenceException
+•	Task vs Thread / Multithreading
+•	IEnumerable vs IQueryable (inheritance difference)
+•	Hashtable vs Dictionary / HashSet vs Dictionary
+•	Ref vs Out
+•	IDisposable & where to use
+•	.NET Framework vs .NET Core (developer perspective)
+•	Async & Await
+Entity Framework / ADO.NET
+•	What is ADO.NET?
+•	Can we use Stored Procedure with ADO.NET?
+•	Difference between SQL query & Stored Procedure in ADO.NET
+•	EF Migrations commands
+•	AsNoTracking
+•	EF Code First vs Database First
+•	Eager loading
+SQL
+•	Views vs Indexes
+•	Indexes (types)
+•	Triggers
+•	SP vs Function
+•	What is SP?
+•	Where vs Having
+•	CTE
+•	Functions – can functions have multiple return types?
+•	Types of joins
+•	Query: If commission is null return 0
+•	Get 5th highest salary
+•	Department with 0 employees
+•	How to identify missing index?
+•	SQL optimization techniques
+•	Keyword to get last inserted record
+ASP.NET Core / MVC / API
+•	Authentication & Authorization
+•	JWT (working, expiry, content)
+•	Logging
+•	Exception handling
+•	Middlewares
+•	REST principles
+•	Routing
+•	Model validation
+•	HTTP methods
+•	200 vs 201 status code
+•	Can we use [Post] on Get action?
+•	Clean code principles (DRY)
+•	Return error message to client
+•	Multiple views / Same view for different controllers
+•	DropDown performance handling
+Azure
+•	Azure Functions (data extraction from request)
+•	Azure Key Vault integration with .NET API
+•	Handling API issue from Cloud (analysis steps)
+Architecture / Design
+•	Design patterns (Factory)
+•	SOLID principles
+•	Open/Closed principle violation example
+•	Caching (why, memory vs Redis)
+•	Microservices architecture

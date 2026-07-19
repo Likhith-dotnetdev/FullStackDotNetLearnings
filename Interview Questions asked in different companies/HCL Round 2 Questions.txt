@@ -1,0 +1,53 @@
+Hcl 2nd round 15 june 2026
+Logistics & Introduction
+"So you can start now?" (02:57:50 PM — Speaker 1 setting up the start)
+
+"What about you?" (02:57:19 PM — Candidate asking the interviewer how they are)
+
+"Can you just let me know about yourself? / Can we get started with your quick introduction?" (02:58:57 PM — Speaker 2/Interviewer)
+
+2. Project Architecture & Infrastructure
+"Can you tell me more about your current project?" (02:59:06 PM — Speaker 3)
+
+"How the infrastructure, how everything is setup?" (02:59:06 PM — Speaker 3)
+
+"What API is [it]?" (03:00:50 PM — Interviewer clarifying the tech stack)
+
+"What is your front end?" (03:00:50 PM — Interviewer)
+
+"Where are the resources?" (03:00:50 PM — Interviewer)
+
+"Can you give a brief [of how the infrastructure looks]?" (03:00:50 PM — Interviewer)
+
+3. Database Keys & Relational Design
+"What are different type of keys we have?" (03:01:16 PM — Speaker 3)
+
+"Why do we acquire this linking [between tables via foreign keys]?" (03:02:16 PM — Interviewer)
+
+"Is there any mandate to have a linking?" (03:02:16 PM — Interviewer)
+
+"What is required here [if it is not a mandate]?" (03:02:16 PM — Interviewer)
+
+"But let's say we store everything in a single table, then?" (03:02:21 PM — Speaker 3)
+
+"What if we merge both the tables and we don't maintain two tables... then we won't require a foreign key, right?" (03:02:57 PM — Speaker 3)
+
+"What is the purpose of creating it as a relational database?" (03:03:17 PM — Interviewer)
+
+"Why is this principle there in place?" (03:03:23 PM — Speaker 3)
+
+"What advantage does it give us?" (03:03:23 PM — Speaker 3)
+
+"Foreign key can be null or not?" (03:03:52 PM — Speaker 3)
+
+"Let's say that particular record in the child table or the relation table is null... how will that particular join query return the data?" (03:04:06 PM — Speaker 3)
+
+4. Health & Interview Continuity Check
+"Can we reschedule if you want? / We can have it [later]?" (03:05:12 PM — Speaker 3 offering to stop the interview because the candidate has a high fever)
+
+5. Indexing & Scenarios
+"What is indexing?" (03:05:30 PM — Speaker 1)
+
+The Clustered Index Scenario (Unfinished Question):
+
+"Let's suppose given a situation you have an employee table where employee ID is a primary key, and it has an index cluster on it. Employee name, employee salary, employee address, and employee department are the other four columns..." (03:06:49 PM — The interviewer sets up this specific scenario right before the transcript ends).

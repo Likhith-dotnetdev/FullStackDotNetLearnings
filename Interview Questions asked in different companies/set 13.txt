@@ -1,0 +1,7 @@
+Today interview questions 
+Create custom validation for email 
+Create crud operation restapi with all validid endpoint 
+Other questions two user use same service but at a time only one service call how to handle this 
+Your webapi taking too much time take how to fix this
+Angular 
+Implementation authentication and authorisation in angular role based access.

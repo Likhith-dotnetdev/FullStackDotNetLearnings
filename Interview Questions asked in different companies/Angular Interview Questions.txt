@@ -1,0 +1,18 @@
+Angular
+=======
+Route gaurd
+NgRX
+Signals
+Root Module
+Feature Module
+Shared Module
+Core Module
+Lifecycle Hooks
+Types of Forms and difference
+Change Detections
+Observable vs Promises
+Dynamic class and Dynamic style
+@defer
+Standalone Component 
+Dependency Injection
+Performance Optmizations

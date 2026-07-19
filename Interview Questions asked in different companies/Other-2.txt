@@ -1,0 +1,101 @@
+One question ask me suppose we iorder service 
+other ipaymenet service requirement is dependency
+ injection besed on order service payment service 
+call  this type of questions ask anyone understand
+ this question because I also not understanding 
+this question
+
+I think you have an OrderService and a PaymentService. The requirement is: OrderService should call PaymentService using Dependency Injection. How do you implement this.
+
+Ex:
+
+1.Interface:
+
+public interface IPaymentService
+{
+    bool ProcessPayment(decimal amount);
+}
+
+2.impl payment service :
+
+public class PaymentService : IPaymentService
+{
+    public bool ProcessPayment(decimal amount)
+    {
+        Console.WriteLine($"Payment of ₹{amount} processed.");
+        return true;
+    }
+}
+
+3.inject into order service via DI
+
+public class OrderService
+{
+    private readonly IPaymentService _paymentService;
+ OrderService(IPaymentService paymentService)
+    {
+        _paymentService = paymentService;
+    }
+
+    public void PlaceOrder(decimal amount)
+    {
+        Console.WriteLine("Order placed.");
+        _paymentService.ProcessPayment(amount); // calls PaymentService
+    }
+}
+
+
+4. Register here
+
+builder.Services.AddScoped<IPaymentService, PaymentService>();
+builder.Services.AddScoped<OrderService>();
+
+SQL :Can you write a query to update gender as Male to female and female to male?
+ LINQ : Write a linq query to get an 18th object from 20objects?
+Can anyone answer?
+ UPDATE Table
+SET Gender = CASE 
+    WHEN Gender = 'Male' THEN 'Female'
+    WHEN Gender = 'Female' THEN 'Male'
+    ELSE Gender
+END;
+var result = list
+    .OrderBy(x => x.Id)
+    .Skip(17)
+    .FirstOrDefault();
+ UPDATE Table_Name
+SET Gender = IIF(Gender = 'Male', 'Female', 'Male');
+ How do you find a Duplicates from student Raw table without having any indexes and keys?
+Use group by, rownumber with partitionby, rank, dense_rank
+WITH CTE AS (
+    SELECT *,
+           ROW_NUMBER() OVER (PARTITION BY Name, Salary ORDER BY Id) AS rn
+    FROM Employee
+)
+DELETE FROM CTE
+WHERE rn > 1;
+[09:26, 6/30/2026] LikhithKumar: WITH Dupes AS
+(
+    SELECT *,
+           ROW_NUMBER() OVER
+           (
+               PARTITION BY Name, DOB, Email, Phone
+               ORDER BY (SELECT NULL)
+           ) AS RN
+    FROM StudentRaw
+)
+SELECT *
+FROM Dupes
+WHERE RN > 1;
+[09:26, 6/30/2026] LikhithKumar: WITH CTE AS
+(
+    SELECT *,
+           ROW_NUMBER() OVER (
+               PARTITION BY StudentName, Age, City
+               ORDER BY (SELECT NULL)
+           ) AS RN
+    FROM StudentRaw
+)
+SELECT *
+FROM CTE
+WHERE RN > 1;

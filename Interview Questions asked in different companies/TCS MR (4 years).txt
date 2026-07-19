@@ -1,0 +1,48 @@
+TCS MR for 4 years
+
+Introduction
+
+1. could you briefly introduce yourself and walk me through your professional journey? 
+2. ⁠How many years of experience do you have?
+3. What is the reason for switching your current job?
+4. What is your educational qualification?
+5. Did you join Greytrix immediately after your graduation?
+6. Have you done your post-graduation?
+7. Why didn’t you pursue post-graduation?
+
+Team & Responsibilities
+
+1. How many members are there in your current team?
+2. What is your role in the team?
+3. Do you write SQL queries and stored procedures yourself, or is there a separate database team handling that work?
+4. Can you write stored procedures independently?
+
+Project & Technical Experience
+
+1. What was the most technically challenging situation you faced during your experience?
+2. You mentioned the Clover Payment Gateway project because it involves payments. Did you face any production issues after deployment, such as payment failures or customer complaints?
+3. Have you ever faced a situation where high traffic or heavy load caused your API to crash?
+
+SQL Scenario
+
+1. Suppose you have two tables:
+
+* CandidateMaster (CandidateID, Name, EmailID, PhoneNumber)
+* CandidateQualification (QualificationID, CandidateID, Qualification, YearOfPassing, PassingPercentage)
+
+A candidate can have multiple qualification records (10th, 12th, Graduation, etc.).
+
+Write a SQL query to display:
+
+* Highest Qualification
+
+1. Can you think of another approach to solve the same SQL problem?
+2. Without changing the existing database structure, how would you determine the highest qualification if the data has been stored for many years?
+
+Personal Background
+
+1. What is your personal background?
+2. Are you from Mumbai?
+3. Where do you currently stay?
+4. Is your family also in Mumbai?
+5. Who all are there in your family?

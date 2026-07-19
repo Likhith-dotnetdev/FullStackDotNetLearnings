@@ -1,0 +1,39 @@
+Deloitte Interview questions L1 for 8+ experience today
+
+SQL Server
+
+1. What is SSIS and where have you used it?
+2. Explain SQL tuning.
+3. What is SQL Profiler?
+
+Entity Framework Core (EF Core)
+
+4. Explain inheritance strategies in EF Core.
+
+LINQ
+
+5. What are anonymous methods in LINQ?
+
+C#
+
+6. What is a static class and instance class?
+7. What is the difference between static class and instance class?
+8. Can you implement a static class and call it from an instance class?
+9. What is method hiding in C#?
+10. Have you worked on method hiding?
+11. What is early binding and late binding in C#?
+12. What is IPC (Inter Process Communication) in C#?
+
+ASP.NET Core Web API
+
+13. What are exception handler classes in Web API?
+14. What is JSON format in Web API?
+15. What is XML format in Web API?
+16. When should we use JSON and XML formats?
+
+Azure
+
+17. What Azure services have you used?
+18. Explain Azure Active Directory.
+19. Where have you used Azure Active Directory in your project?
+20. Why do we use Azure Active Directory?

@@ -1,0 +1,15 @@
+[09:26, 6/30/2026] LikhithKumar: Nth highest salary anyone know? Simple way to find
+[09:26, 6/30/2026] LikhithKumar: Use MAX
+[09:26, 6/30/2026] LikhithKumar: SELECT MAX(salary) AS HighestSalary
+FROM employees;
+[09:26, 6/30/2026] LikhithKumar: WITH RankedSalaries AS (
+    SELECT 
+        employee_id, 
+        salary,
+        DENSE_RANK() OVER (ORDER BY salary DESC) as salary_rank
+    FROM employees
+)
+SELECT DISTINCT employee_id, salary
+FROM RankedSalaries
+WHERE salary_rank = &n;
+[09:26, 6/30/2026] LikhithKumar: Best use CTE..WITH DENSE RANK easy one

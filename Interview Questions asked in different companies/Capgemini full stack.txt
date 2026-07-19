@@ -1,0 +1,10 @@
+Capgemini full stack.
+1. What Dependency injectection and how can u achieve in c#.
+
+2. What are extension methods and have u writeen any extension methods logic.
+3. String aabbbcc write logic to print repeated letter and count.
+4. Use and run method in. Net core.
+5. How will u do performance tuning of a stored procedures 
+6. Can we use function inside the stored procedure
+7. In stored procedure can we use function.
+8. I have 5gb file will my api allow to transfer? And how much max mb i can send with api is there any limitation.

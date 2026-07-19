@@ -1,0 +1,46 @@
+Infosys – First Round
+General
+1.Tell me about yourself.
+2.Explain your project.
+C# / .NET
+3.IEnumerable vs IQueryable.
+4.LINQ Coding Question.
+5.First vs FirstOrDefault.
+6.Single vs SingleOrDefault.
+7.Managed Code vs Unmanaged Code.
+8.Explain Caching.
+9.Entity Framework Approaches.
+10.Explain SOLID Principles.
+11.What is Dependency Injection?
+12.Explain all Service Lifetimes.
+13.Explain Singleton.
+14.What is C#?
+15.Difference between .NET and .NET Core.
+16.Abstract Class vs Interface.
+17.What is Constructor?
+18.Explain Kestrel.
+19.What is Web API?
+20.HTTP Status Codes.
+21.Explain Microservices.
+22.Explain MVC.
+23.appsettings.json.
+24.OOP Concepts.
+25.Method Overloading vs Method Overriding.
+26.REST APIs.
+27.Delegates.
+28.Array vs ArrayList.
+29.Partial vs Sealed Keyword.
+30.Routing.
+31.Authentication vs Authorization.
+Azure
+32.Azure Services.
+33.Azure Key Vault.
+34.Azure Blob Storage.
+35.Explain CI/CD.
+Angular
+36.What is Angular?
+37.Directives.
+38.Components.
+39.Angular Routing.
+40.How do Components communicate?
+41.Dependency Injection in Angular.

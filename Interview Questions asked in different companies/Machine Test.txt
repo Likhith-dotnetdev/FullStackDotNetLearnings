@@ -1,0 +1,1 @@
+Machine test : implement dependency  injection,  multicast delegate,  create table with pk, add index, check, inner join, create new table from result,

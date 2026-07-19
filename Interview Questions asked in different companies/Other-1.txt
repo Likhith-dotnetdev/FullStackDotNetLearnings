@@ -1,0 +1,10 @@
+Hi everyone,
+I’m currently preparing for senior/lead-level C# interviews and looking for high-quality resources specifically on Multithreading & Concurrency.
+Areas I’m focusing on:
+* TPL, Task Parallel Library, PLINQ
+* async/await internals & SynchronizationContext
+* Synchronization — lock, Mutex, Semaphore, SemaphoreSlim, ReaderWriterLockSlim
+* Concurrent collections & concurrency patterns
+* Deadlock, race condition, and livelock scenarios
+If anyone has followed a specific YouTube playlist, course, or website that covers these at an beginner to advanced level, I’d really appreciate the recommendation.
+Thanks!

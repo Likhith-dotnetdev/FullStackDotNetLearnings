@@ -1,0 +1,219 @@
+Top 200 Coding Interview Questions 
+
+🧠 1. Programming Fundamentals 
+1. What is programming?
+2. What is an algorithm?
+3. What is pseudocode?
+4. What is a flowchart?
+5. What is a variable?
+6. What are data types?
+7. What is type casting?
+8. What are operators in programming?
+9. What are conditional statements?
+10. What are loops?
+11. Difference between for, while, and do-while loops?
+12. What are functions?
+13. Difference between parameters and arguments?
+14. What is recursion?
+15. What is scope?
+16. What are global and local variables?
+17. What are arrays?
+18. What are strings?
+19. What is debugging?
+20. What are syntax, logical, and runtime errors?
+
+⚙️ 2. Object-Oriented Programming 
+21. What is Object-Oriented Programming OOP?
+22. What is a class?
+23. What is an object?
+24. What is encapsulation?
+25. What is abstraction?
+26. What is inheritance?
+27. What is polymorphism?
+28. What is method overloading?
+29. What is method overriding?
+30. Difference between overloading and overriding?
+31. What is a constructor?
+32. Types of constructors?
+33. What is destructor?
+34. What is static keyword?
+35. What is final keyword?
+36. What is interface?
+37. What is abstract class?
+38. Difference between interface and abstract class?
+39. What is object cloning?
+40. What are access modifiers?
+
+📊 3. Data Structures 
+41. What is a data structure?
+42. Types of data structures?
+43. What is an array?
+44. What is a linked list?
+45. Types of linked lists?
+46. What is a stack?
+47. What is a queue?
+48. Difference between stack and queue?
+49. What is a deque?
+50. What is a priority queue?
+51. What is a hash table?
+52. What is hashing?
+53. What are collisions in hashing?
+54. What is a binary tree?
+55. What is a binary search tree?
+56. What is AVL tree?
+57. What is heap?
+58. Min Heap vs Max Heap?
+59. What is a graph?
+60. Types of graphs?
+61. What is graph traversal?
+62. BFS vs DFS?
+63. What is a trie?
+64. What is a segment tree?
+65. What is Fenwick tree?
+66. What is disjoint set Union-Find?
+67. What is adjacency matrix?
+68. What is adjacency list?
+69. What is a circular linked list?
+70. What is doubly linked list?
+71. What is a sparse matrix?
+72. What is dynamic array?
+73. What is load factor?
+74. What is collision resolution?
+75. Linear probing vs chaining?
+76. What is tree traversal?
+77. Preorder vs Inorder vs Postorder?
+78. What is level-order traversal?
+79. What is recursion stack?
+80. Time complexity of common data structures?
+
+🚀 4. Algorithms 
+81. What is an algorithm?
+82. What is time complexity?
+83. What is space complexity?
+84. What is Big O notation?
+85. What is Big Theta notation?
+86. What is Big Omega notation?
+87. What is binary search?
+88. What is linear search?
+89. Difference between linear and binary search?
+90. What is merge sort?
+91. What is quick sort?
+92. What is bubble sort?
+93. What is insertion sort?
+94. What is selection sort?
+95. What is heap sort?
+96. What is counting sort?
+97. What is radix sort?
+98. What is divide and conquer?
+99. What is greedy algorithm?
+100. What is dynamic programming?
+101. What is memoization?
+102. What is tabulation?
+103. What is backtracking?
+104. What is branch and bound?
+105. What is recursion?
+106. What is tail recursion?
+107. What is sliding window?
+108. What is two pointers technique?
+109. What is prefix sum?
+110. What is binary lifting?
+111. What is topological sorting?
+112. What is Dijkstra's algorithm?
+113. What is Bellman-Ford algorithm?
+114. What is Floyd-Warshall algorithm?
+115. What is Kruskal's algorithm?
+116. What is Prim's algorithm?
+117. What is Kadane's algorithm?
+118. What is KMP algorithm?
+119. What is Rabin-Karp algorithm?
+120. What is Huffman coding?
+
+💻 5. Programming Languages 
+121. What is C?
+122. What is C++?
+123. What is Java?
+124. What is Python?
+125. What is JavaScript?
+126. Difference between compiled and interpreted languages?
+127. What is garbage collection?
+128. What is memory management?
+129. What is pointer?
+130. What is reference?
+131. Pointer vs Reference?
+132. What is exception handling?
+133. What is multithreading?
+134. What is concurrency?
+135. What is synchronization?
+136. What is deadlock?
+137. What is race condition?
+138. What is lambda function?
+139. What are generics?
+140. What is iterator?
+141. What is collection framework?
+142. What is immutable object?
+143. What is mutable object?
+144. What is package/module?
+145. What is namespace?
+
+🗄️ 6. Database & SQL 
+146. What is a database?
+147. What is SQL?
+148. Difference between SQL and NoSQL?
+149. What is normalization?
+150. What is denormalization?
+151. What is a primary key?
+152. What is a foreign key?
+153. What are joins?
+154. Difference between INNER JOIN and LEFT JOIN?
+155. What is indexing?
+156. What is a transaction?
+157. What are ACID properties?
+158. What is a view?
+159. What is a stored procedure?
+160. What is a trigger?
+161. What is aggregate function?
+162. What is GROUP BY?
+163. What is HAVING clause?
+164. Difference between DELETE, DROP, and TRUNCATE?
+165. What is database optimization?
+
+🌐 7. System Design & CS Fundamentals 
+166. What is an operating system?
+167. What is a process?
+168. What is a thread?
+169. Process vs Thread?
+170. What is CPU scheduling?
+171. What is virtual memory?
+172. What is paging?
+173. What is caching?
+174. What is load balancing?
+175. What is client-server architecture?
+176. What is REST API?
+177. What is HTTP?
+178. What is HTTPS?
+179. What is DNS?
+180. What is CDN?
+
+🎯 8. Coding Interview Scenarios 
+181. Reverse a string.
+182. Find the largest element in an array.
+183. Find the second largest element.
+184. Check whether a string is a palindrome.
+185. Find duplicate elements in an array.
+186. Remove duplicates from an array.
+187. Find the missing number in an array.
+188. Merge two sorted arrays.
+189. Check if two strings are anagrams.
+190. Find the first non-repeating character.
+
+🏆 9. Advanced Coding Problems 
+191. Solve the Two Sum problem.
+192. Solve the Longest Substring Without Repeating Characters problem.
+193. Solve the Longest Common Subsequence problem.
+194. Solve the Longest Increasing Subsequence problem.
+195. Solve the Maximum Subarray Sum problem.
+196. Solve the Merge Intervals problem.
+197. Solve the Trapping Rain Water problem.
+198. Solve the Median of Two Sorted Arrays problem.
+199. Solve the LRU Cache problem.
+200. Design a URL Shortener.

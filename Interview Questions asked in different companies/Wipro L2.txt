@@ -1,0 +1,12 @@
+Wipro L2 round coding questions:- 
+
+1) string input = "Hello world";
+input.Replace("H", "W");
+
+Console.WriteLine(input); what's the output 
+
+2) Nth highest salary write in Linq. 
+
+3) string input=  " Some paragraph" 
+
+Output a2e2i3o5u2

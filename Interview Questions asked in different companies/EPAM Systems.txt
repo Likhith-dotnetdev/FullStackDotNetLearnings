@@ -1,0 +1,18 @@
+EPAM Systems
+role: .NET Full Stack Developer + AI
+Experience: 5 - 8 Years
+1. AI Tools: GHCp / Claude / Cursor — usage %, use cases, validation strategy
+2. Default Interface Method vs Abstract
+3. Azure Durable Functions — orchestrator/activity
+4. DI Service Lifetimes — Singleton / Scoped / Transient
+5. Middleware & Custom Middleware
+6. JWT Validation flow
+7. SOLID Principles / Liskov Substitution Principle with example
+8. LINQ + Lambda — divisible-by-N example
+9. API Route Constraints & overload resolution
+10. Correlation ID — where it is generated
+11. CQRS + MediatR  / SAGA / BFF Microservice Pattern
+12. Types of Testing + Code Coverage
+13. MCP Server concept
+14. SQL Database + DB Optimization techniques + varchar vs nvarchar
+15. Angular + state management — Input/Output, Service, NgRx/Signals, Component to Component Communication, data binding techniques

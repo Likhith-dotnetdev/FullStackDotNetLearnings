@@ -1,0 +1,10 @@
+I gave the First Round, which was conducted virtually last month, for the Role of Sr Dotnet Developer
+
+1. Program for removing the duplicates from a string
+2. SQL Query for finding 3rd Highest Salary (Involving multiple tables)
+3. What are IEnumerable & IQueryable
+4. What is content negotiation?
+5. If I have an API that returns a JSON response, now we want to send an XML response. What would you do?
+6. What is the Singleton Design Pattern? How would you implement it?
+7. Explain Runtime Polymorphism by writing code.
+8. What is a private constructor? Provide a real-time example of it.

@@ -1,0 +1,10 @@
+1st round :
+Each character occurrence in string? In this question he want in logic and well using linq query.
+
+
+Emp table has manager id , give me empname and manager names ? Using self join and cross join
+
+
+WRITE QUERY TO GET first First highest salary in SQL ?
+
+Tomorrow I am having 2nd round techno managerial round
